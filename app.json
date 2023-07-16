@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea18dd0c-9536-422c-95f3-82d63053b521"
+      }
+    },
+    "owner": "light-dart"
   }
 }
